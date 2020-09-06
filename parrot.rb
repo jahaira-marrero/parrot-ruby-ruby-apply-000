@@ -1,6 +1,5 @@
-def parrot
-  
-  puts "Squawk!"
+def hello(parrot="Squawk!")
+  puts #{parrot}
 end
 
-parrot
+hello
