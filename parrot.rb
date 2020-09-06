@@ -1,5 +1,5 @@
 def hello(parrot="Squawk!")
-  puts "#{parrot}""
+  puts "#{parrot}"
 end
 
 hello
