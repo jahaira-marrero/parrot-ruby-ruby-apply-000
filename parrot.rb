@@ -1,5 +1,5 @@
-def hello(parrot="Squawk!")
+def parrot="Squawk!"
   puts "#{parrot}"
 end
 
-hello
+parrot
